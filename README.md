@@ -1,8 +1,8 @@
-## PortfolioProjects
+### PortfolioProjects
 PortfolioProjects was created by Igor Angelovskiy to showcase his data analytics skills.
 
 ## Bio
-Versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Understanding and proficiency of platforms for effective data analysis, including SQL, spreadsheets, Tableau, and R. Strong communication, organizational, and analytical skills. Recently completed the [Google Data Analytics Certificate](https://www.credly.com/badges/56469a6f-8be7-4b5b-8931-a4373a1c60e8?source=linked_in_profile) – a rigorous, hands-on program that covers the entire scope of the data analysis process.<br/>
+MSc Chemistry graduate from Moscow State University. Versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Understanding and proficiency of platforms for effective data analysis, including SQL, spreadsheets, Tableau, and R. Strong communication, organizational, and analytical skills. Recently completed the [Google Data Analytics Certificate](https://www.credly.com/badges/56469a6f-8be7-4b5b-8931-a4373a1c60e8?source=linked_in_profile) – a rigorous, hands-on program that covers the entire scope of the data analysis process.<br/>
 [**LinkedIn**](https://www.linkedin.com/in/angelovskiy-igor/)
 
 ## **Projects**
