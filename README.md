@@ -11,12 +11,14 @@ MSc Chemistry graduate of the Lomonosov Moscow State University. Versatile indiv
 * Data analysis of bike trips data including ask, prepare, process, analyze, share and act stages.
 * To view the file without downloading please use this link:
 https://htmlpreview.github.io/?https://github.com/AngelovskiyIgor/PortfolioProjects/blob/main/Cyclistic_bike_trips_analysis_R_lang.html
-<br/>
+
 ### Project 2 - Covid-19 Project
 * Dataset from https://ourworldindata.org/covid-deaths.
 * Divided dataset into two: 'CovidDeaths' and 'CovidVaccinations'.
 * Created database in Microsoft SQL Server 'CovidProject'.
 * Uploaded datasets. 
-* Run queries: 
+* Run queries: [CovidProject.sql](https://github.com/AngelovskiyIgor/PortfolioProjects/blob/main/CovidProject.sql)
 * Saved results in Excel files.
-* Created dashboards in Tableau, [link]()
+* Created dashboards in Tableau: 
+* * [Covid Infections and Deaths](https://public.tableau.com/app/profile/angelovskiy.igor/viz/Covid_Continents_Inf_Dea/Dashboard1) - organized by continents, shows total counts of infections and deaths, rates are (total count)/(population size)*100%
+* * [Covid Death Rates and Vaccinations](https://public.tableau.com/app/profile/angelovskiy.igor/viz/Covid_Death_Rates_and_Vaccinations/Dashboard1) - organized by countries, shows death rates for each country; Vaccine Shots/Population - how much vaccine shots were taken in each country in rrelation to it's population.
