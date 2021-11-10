@@ -7,7 +7,7 @@ MSc Chemistry graduate of the Lomonosov Moscow State University. Versatile indiv
 [**LinkedIn**](https://www.linkedin.com/in/angelovskiy-igor/)
 
 ## **Projects**
-### Project 1 - Cyclistic bike trips data analysis with R language
+### Project 1 - Cyclistic bike trips data analysis using R language
 * Analysis of bike trips data including ask, prepare, process, analyze, share and act stages.
 * All steps of analysis are shown in file [Cyclistic_bike_trips_analysis_R_lang.html](https://github.com/AngelovskiyIgor/PortfolioProjects/blob/main/Cyclistic_bike_trips_analysis_R_lang.html)
 * To view the file without downloading please use this link:
