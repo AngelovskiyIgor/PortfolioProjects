@@ -20,5 +20,5 @@ https://htmlpreview.github.io/?https://github.com/AngelovskiyIgor/PortfolioProje
 * Run queries: [CovidProject.sql](https://github.com/AngelovskiyIgor/PortfolioProjects/blob/main/CovidProject.sql)
 * Saved results in Excel files.
 * Created dashboards in Tableau: 
-* * [Covid Infections and Deaths](https://public.tableau.com/app/profile/angelovskiy.igor/viz/Covid_Continents_Inf_Dea/Dashboard1) - organized by continents, shows total counts of infections and deaths, rates are (total count)/(population size)*100%
-* * [Covid Death Rates and Vaccinations](https://public.tableau.com/app/profile/angelovskiy.igor/viz/Covid_Death_Rates_and_Vaccinations/Dashboard1) - organized by countries, shows death rates for each country; Vaccine Shots/Population - how much vaccine shots were taken in each country in rrelation to it's population.
+ * [Covid Infections and Deaths](https://public.tableau.com/app/profile/angelovskiy.igor/viz/Covid_Continents_Inf_Dea/Dashboard1) - organized by continents, shows total counts of infections and deaths, rates are (total count)/(population size)*100%
+ * [Covid Death Rates and Vaccinations](https://public.tableau.com/app/profile/angelovskiy.igor/viz/Covid_Death_Rates_and_Vaccinations/Dashboard1) - organized by countries, shows death rates for each country; Vaccine Shots/Population - how much vaccine shots were taken in each country in rrelation to it's population.
