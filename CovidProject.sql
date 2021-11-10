@@ -1,4 +1,23 @@
------- Exploring dataset
+--------- Covid-19 Project overview
+
+------ Part 1
+-- Dataset from https://ourworldindata.org/covid-deaths.
+-- Divided dataset into two: 'CovidDeaths' and 'CovidVaccinations'.
+-- Created database in Microsoft SQL Server 'CovidProject'.
+-- Uploaded datasets.
+-- Run queries: CovidProject.sql
+-- Saved results in Excel files.
+
+------ Part 2
+-- Created dashboards in Tableau:
+----- Covid Infections and Deaths - organized by continents, shows total counts and rates of infections and deaths, rates are calculated as (total count)/(population size)*100%
+----- Covid Death Rates and Vaccinations - organized by countries, shows death rates for each country; Vaccine Shots/Population - how many vaccine shots were taken in each country in relation to it's population (%).
+----- Covid Vaccines vs Population - shows how Vaccine Shots/Population changed over time for several countries. Additionaly forecast of this parameter is presented for each of selected countries.
+
+
+--------- Part 1 - Data Exploration 
+
+------ Exploring datasets
 --- Covid Deaths
 
 SELECT *
