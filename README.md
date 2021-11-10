@@ -21,6 +21,6 @@ https://htmlpreview.github.io/?https://github.com/AngelovskiyIgor/PortfolioProje
 * Run queries: [CovidProject.sql](https://github.com/AngelovskiyIgor/PortfolioProjects/blob/main/CovidProject.sql)
 * Saved results in Excel files.
 * Created dashboards in Tableau: 
-  * [Covid Infections and Deaths](https://public.tableau.com/views/Covid_Continents_Inf_Dea/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - organized by **continents**, shows total counts of infections and deaths, rates are calculated as _(total count)/(population size)*100%_
+  * [Covid Infections and Deaths](https://public.tableau.com/views/Covid_Continents_Inf_Dea/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - organized by **continents**, shows total counts and rates of infections and deaths, rates are calculated as _(total count)/(population size)*100%_
   * [Covid Death Rates and Vaccinations](https://public.tableau.com/views/Covid_Death_Rates_and_Vaccinations/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) - organized by **countries**, shows death rates for each country; Vaccine Shots/Population - how many vaccine shots were taken in each country in relation to it's population (%).
   * [Covid Vaccines vs Population](https://public.tableau.com/views/Covid__Vaccines_vs_Population/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) - shows how Vaccine Shots/Population changed over time for several countries. Additionaly forecast of this parameter is presented for each of selected countries.
