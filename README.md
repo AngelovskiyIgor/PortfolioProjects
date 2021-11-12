@@ -30,4 +30,4 @@ https://htmlpreview.github.io/?https://github.com/AngelovskiyIgor/PortfolioProje
 ### Project 3 - Housing Project
 * Data cleaning in SQL
 * Dataset [link](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
-* SQL queries: 
+* SQL queries: [HousingProject.sql](https://github.com/AngelovskiyIgor/PortfolioProjects/blob/main/HousingProject.sql)
