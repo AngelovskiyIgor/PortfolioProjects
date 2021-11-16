@@ -12,6 +12,7 @@
 
 --- Important disclaimer ---
 *** for this analysis we used estimate of 75 % - gray water as a share in municapal water waithrowal
+** source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6133124/
 ***Gray water is the relatively clean waste water from baths, sinks, washing machines, and other kitchen appliances.
 
 */
