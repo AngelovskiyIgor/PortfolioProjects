@@ -78,7 +78,7 @@ order by obs_count desc
 
 -- Year 2017 has the highest number of observations in [municipal]
 
--- We deided to use the data for 2017 for further analysis because it has the highest number of observations in all 3 tables
+-- We decided to use the data for 2017 for further analysis because it has the highest number of observations in all 3 tables
 
 -- Let's create a table that will have information on annual freshwater withdrawal, agricultural withdrawal (%), and municipal withdrawal (%)
 
@@ -118,7 +118,7 @@ ADD agricultural_mcub numeric(30), municipal_mcub numeric(30), gray_mcub numeric
 select *
 from GrayWaterProject..water_withdrawals
 
--- Let's calculate water withdrawals in m3
+-- Let's calculate water withdrawals in cubic meters
 
 UPDATE GrayWaterProject..water_withdrawals
 set agricultural_mcub = (agricultural_percent * annual_withdrawal /100)
@@ -149,7 +149,7 @@ select *
 from GrayWaterProject..water_withdrawals
 order by gray_vs_agri_perc desc
 
--- What countries have the highest potential of using gray water in agriculture + where usage of water in agriculture >= 10%
+-- What countries have the highest potential of using gray water in agriculture AND where usage of water in agriculture at least 10%
 
 select *
 from GrayWaterProject..water_withdrawals
